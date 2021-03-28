@@ -1,0 +1,20 @@
+.tastatura {
+    background-color: gray;
+    margin-top: 421px;
+    margin-left: 272px;
+    margin-right: 979px;
+}
+.prvi-red, .drugi-red, .treci-red, .cetvrti-red {
+    width: 100%;
+    height: 60px;
+    margin: -22px 0 16px 3px;
+}
+button {
+    color: white;
+    width: 55px;
+    height: 55px;
+    background: black;
+    font-size: 20px;
+    outline: none;
+    margin-left: -3px;
+}
